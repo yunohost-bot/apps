@@ -377,7 +377,7 @@
     "freshrss": {
         "branch": "master",
         "level": 7,
-        "revision": "d2730ede8830f746a63ac1c5ff70e4632a12ddb7",
+        "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/freshrss_ynh"
     },
@@ -1130,7 +1130,7 @@
     "seafile": {
         "branch": "master",
         "level": 2,
-        "revision": "HEAD",
+        "revision": "eb1059bfe2c9961ae248fddcc25521c16d09a69b",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/seafile_ynh"
     },
