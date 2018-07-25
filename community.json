@@ -1198,6 +1198,12 @@
         "state": "working",
         "url": "https://github.com/Kloadut/shout_ynh"
     },
+    "shsd": {
+        "branch": "master",
+        "revision": "HEAD",
+        "state": "working",
+        "url": "https://github.com/YunoHost-apps/shsd_ynh"
+    },
     "shuri": {
         "branch": "master",
         "level": 2,
