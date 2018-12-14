@@ -200,8 +200,7 @@
     },
     "cowyo": {
         "branch": "master",
-        "level": 2,
-        "revision": "0ce8a8c89a42f08f82667d7764851762db55557a",
+        "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/cowyo_ynh"
     },
@@ -1053,12 +1052,12 @@
         "state": "inprogress",
         "url": "https://github.com/YunoHost-Apps/nodebb_ynh"
     },
-    "odoo": {
+    "libreerp": {
         "branch": "master",
         "level": 0,
         "revision": "HEAD",
-        "state": "inprogress",
-        "url": "https://github.com/Yunohost-Apps/odoo_ynh"
+        "state": "working",
+        "url": "https://github.com/Yunohost-Apps/libreerp_ynh"
     },
     "ofbiz": {
         "branch": "master",
@@ -1070,7 +1069,6 @@
     },
     "onlyoffice": {
         "branch": "master",
-        "level": 3,
         "revision": "9eee4dcb9f7602247981b4ba2a7ca7ab12634c26",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/onlyoffice_ynh"
@@ -1200,6 +1198,12 @@
         "revision": "HEAD",
         "state": "working",
         "url": "https://github.com/YunoHost-Apps/pihole_ynh"
+    },
+    "pilea": {
+        "branch": "master",
+        "revision": "3d09ad6f50ee55dde58c36adb5c369bf314d9edf",
+        "state": "working",
+        "url": "https://github.com/SimonMellerin/pilea_ynh/"
     },
     "piratebox": {
         "branch": "master",
@@ -1393,7 +1397,7 @@
         "branch": "master",
         "level": 0,
         "revision": "HEAD",
-        "state": "inprogress",
+        "state": "working",
         "url": "https://github.com/YunoHost-apps/shsd_ynh"
     },
     "shuri": {
@@ -1663,9 +1667,8 @@
     },
     "wekan": {
         "branch": "master",
-        "level": 0,
         "revision": "HEAD",
-        "state": "inprogress",
+        "state": "working",
         "url": "https://github.com/YunoHost-Apps/wekan_ynh"
     },
     "wemawema": {
